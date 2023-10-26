@@ -11,11 +11,9 @@
 <br />
 
 ### Demo Screeshots
-![DigitalClock-1](https://github.com/Pratheeshwarank/DigitalCalculator/assets/135298926/19012d7a-82cf-4142-bc2c-c80119a36876)
+![DigitalClock-1](https://github.com/Pratheeshwarank/DigitalClock/assets/135298926/5abc865c-35cc-4050-8528-404e059c8f21)
 
-
-
-![DigitalClock-2](https://github.com/Pratheeshwarank/DigitalCalculator/assets/135298926/cbb3a71e-b0f0-4968-bed7-a63cd231f441)
+![DigitalClock-2](https://github.com/Pratheeshwarank/DigitalClock/assets/135298926/e8925b45-98c4-4c82-81fb-67e1aeab5124)
 
 
 ### Prerequisites
